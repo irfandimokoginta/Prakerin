@@ -1,5 +1,6 @@
-Praktek Kerja Industri, Prakerin, PKL, Magang, Kerja Lapangan, Praktik Kerja Lapangan
+Praktik Kerja Industri, Prakerin, PKL, Magang, Kerja Lapangan, Praktik Kerja Lapangan
 =====================================================================================
+
 
 SISTEM INFORMASI PRAKERIN + SAW(Simple Additive Weighting) Peserta
 Buat belajar
