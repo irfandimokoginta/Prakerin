@@ -1,4 +1,5 @@
-Praktek Kerja Industri 
+Praktek Kerja Industri, Prakerin, PKL, Magang, Kerja Lapangan, Praktik Kerja Lapangan
+=====================================================================================
 
 SISTEM INFORMASI PRAKERIN + SAW(Simple Additive Weighting) Peserta
 Buat belajar
@@ -9,4 +10,4 @@ xampp-win32-1.8.2-6-VC9
 User     : admin
 Password : admin
 
-Prakerin, PKL, Magang, Kerja Lapangan, Praktik Kerja Lapangan
+
